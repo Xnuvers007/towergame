@@ -1,8 +1,8 @@
-this is script for make game Car Racing
+this is script for make game tower building
 
 like this demo
 
-[Demo](https://ndraeee25.000webhostapp.com/game/car/index.html)
+[Demo](https://ndraeee25.000webhostapp.com/game/stick/index.html)
 
 build using
 
